@@ -1,0 +1,5 @@
+#! /usr/bin/env ruby
+
+require 'rhello'
+
+Rhello::Application.new.run
