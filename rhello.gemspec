@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["2peta"]
   s.email       = ["2peta@suppin.org"]
   s.homepage    = ""
-  s.summary     = %q{rhello}
-  s.description = %q{rhello}
+  s.summary     = %q{produce a familiar, friendly greeting}
+  s.description = %q{rhello is another implementation of the hello world program}
   s.bindir      = 'bin'
 
   s.rubyforge_project = "rhello"
